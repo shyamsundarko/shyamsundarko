@@ -1,11 +1,11 @@
 # Hello, I'm Shyam Sundar. Welcome to my page! 👋
-## <a href="https://portfolio-revamped-v1.herokuapp.com/" style="color:"red";">Click here to view my personal website!</a>
+## <a href="https://portfolio-v2-kappa-five.vercel.app/">Click here to view my personal website!</a>
 
 - 🔭 Currently going through a **Frontend Roadmap** to further my dreams of becoming one of the best frontend devs out there! 
-- 🌱 Currently learning React Native
-- 👯 Looking to collaborate on any web development project
+- 🌱 Currently brushing up JS knowledge
+- 🫡 Looking to collaborate on any web development project
 - 🤔 Currently looking for full-time/part-time internships 
-- 😄 Pronouns: He/Him
+- 🤪 Pronouns: He/Him
 - ⚡ Fun fact: I do freelance professional photography when I find time!
 
 ### Reach me via:
