@@ -2,7 +2,7 @@
 ## <a href="https://portfolio-v2-kappa-five.vercel.app/">Click here to view my personal website!</a>
 
 - 🔭 Currently going through a **Frontend Roadmap** to further my dreams of becoming one of the best frontend devs out there! 
-- 🌱 Currently brushing up JS knowledge
+- 🌱 Currently brushing up my JS knowledge
 - 🫡 Looking to collaborate on any web development project
 - 🤔 Currently looking for full-time/part-time internships 
 - 🤪 Pronouns: He/Him
