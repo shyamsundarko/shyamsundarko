@@ -1,5 +1,5 @@
 # Hello, I'm Shyam Sundar. Welcome to my page! 👋
-# <a href="https://personal-site-beryl-omega.vercel.app/">Click here to view my personal website!</a>
+# <a href="https://shyamsundarko.framer.website/">Click here to view my personal website!</a>
 
 - 🔭 Currently going through a **Frontend Roadmap** to further my dreams of becoming one of the best frontend devs out there! 
 - 🌱 Currently brushing up my JS knowledge
